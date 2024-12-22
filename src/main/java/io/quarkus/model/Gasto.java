@@ -1,7 +1,7 @@
 package io.quarkus.model;
 
 
-public class Gastos {
+public class Gasto {
     private int id;
     private String descripcion;
     private long fecha;
