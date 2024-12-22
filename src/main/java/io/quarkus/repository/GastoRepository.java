@@ -1,5 +1,5 @@
-package io.quarkus.repository
-import io.quarkus.model.Gasto.
+package io.quarkus.repository;
+import io.quarkus.model.Gasto;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.File;
