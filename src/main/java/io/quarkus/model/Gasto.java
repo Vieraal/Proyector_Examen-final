@@ -1,4 +1,5 @@
-package io.quarkus;
+package io.quarkus.model;
+
 
 public class Gasto {
     private int id;
